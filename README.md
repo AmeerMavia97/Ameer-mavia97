@@ -1,19 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ameer Mavia</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A PASSIONATE FRONTEND DEVELOPER FROM PAKISTAN</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameermavia97&label=Profile%20views&color=0e75b6&style=flat" alt="ameermavia97" /> </p>
+Hello, I'm Ameer Mavia, a passionate and dedicated individual in the field of front-end development. With a background in Computer Science in Our college I specialize in creating visually appealing and user-friendly websites. I thrive on the creative process of turning design concepts into interactive digital experiences. My skills include proficiency in HTML, CSS, and JavaScript, allowing me to bring ideas to life on the web. Beyond coding, I am committed to staying updated on the latest industry trends and technologies to deliver cutting-edge solutions. Let's explore how my expertise can contribute to enhancing your digital presence or projects.
 
-- 🔭 I’m currently working on **React-Js**
-
-- 🌱 I’m currently learning **Reacts-Js , backend**
-
-- 👯 I’m looking to collaborate on **Ameer-Mavia**
-
-- 🤝 I’m looking for help with **Ameer-Mavia**
-
-- 📫 How to reach me **maviaking97@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+Outside of my professional life, I enjoy for create a Profesional Web, and I am always excited about to Create a Professional Project. Let's connect and explore how we can collaborate or share insights in our shared interests!
 
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 
